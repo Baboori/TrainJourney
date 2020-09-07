@@ -1,0 +1,8 @@
+
+<div *ngIf="journeyDetails">
+  <p> <b>Journey Details : </b>Total duration - <b>{{totalDuration()}}</b></p>
+  <li *ngFor="let Journey of journeyDetails ">{{Journey.DepartStation}} - {{Journey.ArriveStation}} : {{Journey.Time}} </li>
+</div>
+<div *ngIf="!journeyDetails">
+   No Journey routes found, Search for different stations!
+</div>

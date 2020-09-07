@@ -1,0 +1,72 @@
+[
+	{
+		"DepartStation": "Basingstoke",
+		"ArriveStation": "Reading",
+		"Time":18
+	},
+	{
+		"DepartStation": "Reading",
+		"ArriveStation": "Basingstoke",
+		"Time":18
+	},
+	{
+		"DepartStation": "Basingstoke",
+		"ArriveStation": "Farnborough",
+		"Time":16
+	},
+	{
+		"DepartStation": "Farnborough",
+		"ArriveStation": "Basingstoke",
+		"Time":16
+	},
+	{
+		"DepartStation": "Reading",
+		"ArriveStation": "Farnborough",
+		"Time":25
+	},
+	{
+		"DepartStation": "Farnborough",
+		"ArriveStation": "Reading",
+		"Time":25
+	},
+	{
+		"DepartStation": "Basingstoke",
+		"ArriveStation": "Clapham Junction",
+		"Time":37
+	},
+	{
+		"DepartStation": "Clapham Junction",
+		"ArriveStation": "Basingstoke",
+		"Time":37
+	},
+	{
+		"DepartStation": "Clapham Junction",
+		"ArriveStation": "London Victoria",
+		"Time":6
+	},
+	{
+		"DepartStation": "London Victoria",
+		"ArriveStation": "Clapham Junction",
+		"Time":6
+	},
+	{
+		"DepartStation": "Reading",
+		"ArriveStation": "London Paddington",
+		"Time":34
+	},
+	{
+		"DepartStation": "London Paddington",
+		"ArriveStation": "Reading",
+		"Time":34
+	},
+	{
+		"DepartStation": "London Paddington",
+		"ArriveStation": "London Victoria",
+		"Time":32
+	},
+	{
+		"DepartStation": "London Victoria",
+		"ArriveStation": "London Paddington",
+		"Time":32
+	}
+]
